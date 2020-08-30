@@ -77,7 +77,6 @@ function App() {
                   </NavbarText>
                 </Fade>
               ) : null}
-
               <NavItem className="menu-button d-flex justify-content-between">
                 <div className="d-flex justify-content-left" href="/">
                   <i
@@ -89,7 +88,6 @@ function App() {
                   </Fade>
                 </div>
               </NavItem>
-
               <NavItem className="menu-button d-flex justify-content-between">
                 <div className="d-flex justify-content-left">
                   <div className="button-icon-wrapper">
@@ -105,7 +103,6 @@ function App() {
                   </div>
                 </div>
               </NavItem>
-
               <NavItem className="menu-button d-flex justify-content-between">
                 <div className="d-flex justify-content-left">
                   <i
@@ -119,7 +116,6 @@ function App() {
                   </div>
                 </div>
               </NavItem>
-
               <NavItem className="menu-button d-flex justify-content-between">
                 <div className="d-flex justify-content-left">
                   <i
